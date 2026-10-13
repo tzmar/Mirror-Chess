@@ -1,0 +1,6 @@
+{
+  "name": "Mirror Chess",
+  "description": "Offline-first native Android chess app with an adaptive mirror bot that learns your play style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
